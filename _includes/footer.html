@@ -24,20 +24,24 @@
         {%- endif %}
       </div>
     </div>
-    <div class="social-links">
-      <ul class="social-media-list">
-        <li><a href="mailto: celhai@princeton.edu"><img class="svg-icon" src="/images/email.svg"/>
-            <span class="username">celhai@princeton.edu</span></a></li>
-        <li><a href="https://twitter.com/colyelhai"><svg class="svg-icon">
-              <use xlink:href="/assets/minima-social-icons.svg#twitter"></use>
-            </svg> <span class="username">@ColyElhai</span></a></li>
-            <i class="fas fa-envelope"></i>
-      </ul>
+    <div style="display:flex">
+      <div class="social-links">
+        <ul class="social-media-list">
+          <li><a href="mailto: celhai@princeton.edu"><img class="svg-icon" src="/images/email.svg" />
+              <span class="username">celhai@princeton.edu</span></a></li>
+          <li><a href="https://twitter.com/colyelhai"><svg class="svg-icon">
+                <use xlink:href="/assets/minima-social-icons.svg#twitter"></use>
+              </svg> <span class="username">@ColyElhai</span></a></li>
+          <i class="fas fa-envelope"></i>
+        </ul>
+      </div>
+      <!-- <div style="text-align: right; margin-left: auto; color: #828282;">
+        <p>{{ site.description | escape }}</p>
+      </div> -->
+      <div style="align-self: flex-end; margin-left: auto; font-size: small; color: #828282;">
+        &copy; Lucas Estrada 2020. Powered by Jekyll & Minima. 
+      </div>
     </div>
-    <div class="desc" style="text-align: right; color: #828282">
-      <p>{{ site.description | escape }}</p>
-    </div>
-
   </div>
 
 </footer>
