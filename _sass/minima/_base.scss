@@ -191,6 +191,28 @@ pre {
   }
 }
 
+.img-circle-avatar {
+  width: 100%;
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.bio {
+  padding-top: 50px;
+  padding-left: 20px
+}
+
+.social-link-wrapper {
+  display: flex;
+}
+
+.copywrite {
+  align-self: flex-end;
+  margin-left: auto;
+  font-size: small;
+  color: #828282;
+}
+
 /**
  * Clearfix
  */
