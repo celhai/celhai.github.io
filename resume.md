@@ -7,7 +7,7 @@ permalink: /cv/
 
 ------------------------------------------------------------------------
 <div style="text-align: right;">
-<a style="text-align: right;" href="/pdfs/Elhai_CV_web.pdf">PDF Version</a>
+<a href="/pdfs/Elhai_CV_web.pdf">PDF Version</a>
 </div>
 ### Education
 **Williams College**\
