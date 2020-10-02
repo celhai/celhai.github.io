@@ -191,17 +191,6 @@ pre {
   }
 }
 
-.flex-container {
-  display: flex;
-  padding-top: 40px;
-  
-  // if screen smaller than 800px switch to vertical alignment
-  @include media-query ($on-laptop) {
-    flex-direction: column;
-    align-items: center;
-  }
-}
-
 /**
  * Clearfix
  */
@@ -210,8 +199,6 @@ pre {
   display: table;
   clear: both;
 }
-
-
 
 /**
  * Icons
