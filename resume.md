@@ -12,8 +12,7 @@ permalink: /cv/
 ### Education
 
 **Harvard University**\
-*Doctoral Student in Economics*
-(2021-present)
+*Doctoral Student in Economics* (2021-present)
 
 **Williams College**\
 *Bachelor of Arts in Economics and Mathematics*\
@@ -21,15 +20,13 @@ Phi Beta Kappa, magna cum laude (2015-2019)
 
 
 ### Research Experience
-**Research Assistant to Owen Zidar**, Princeton Program in Public
-Finance
+**Research Assistant to Owen Zidar**, Princeton Program in Public Finance
 
+**Research Fellow**, Voting Rights Data Institute
 
-**Research Fellow**, Voting Rights Data Institute\
+**Sentinels Fellow**, Center for Learning in Action at Williams College
 
-**Sentinels Fellow**, Center for Learning in Action at Williams College\
-
-**Research Assistant**, Treasury Department Office of Economic Policy\
+**Research Assistant**, Treasury Department Office of Economic Policy
 
 ### Professional Service
 **Co-organizer**, Pre-Doctoral Research in Economics (PRE) Workshop (<https://predoc.org/events/pre-doctoral-research-in-economics-workshop>)
@@ -44,15 +41,14 @@ Finance
 
 
 
-
 ### Grants, Awards, and Fellowships
-**Goldberg Prize**\
+**Goldberg Prize**
 
-**Gaudino Fellowship**\
+**Gaudino Fellowship**
 
-**Class of 1960s Scholar**\
+**Class of 1960s Scholar**
 
-**Kershaw Internship Award**\
+**Kershaw Internship Award**
 
 ### Skills
 **Programming**\
