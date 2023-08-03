@@ -7,9 +7,9 @@ permalink: /cv/
 
 ------------------------------------------------------------------------
 <div style="text-align: right;">
-<a href="/pdfs/Elhai_CV_web.pdf">PDF Version</a>
+<a href="/pdfs/Elhai_CV_1page.pdf">PDF</a>
 </div>
-### Education
+<!-- ### Education
 
 **Harvard University**\
 *Doctoral Student in Economics* (2021-present)
@@ -57,4 +57,4 @@ with Git, Java, and SQL. Some experience with QGIS and Matlab.
 
 **Natural languages**\
 English (*native*), French (*intermediate*), Mandarin Chinese
-(*intermediate*)
+(*intermediate*) -->
