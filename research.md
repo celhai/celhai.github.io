@@ -13,12 +13,10 @@ permalink: /research/
 
 
 </details> 
-<details>
+<!-- <details>
   <summary>PDF summary</summary>
-  
   <a href="/pdfs/methane_note_latest.pdf">Summary</a>
-
-</details> 
+</details>  -->
 
 
 <br/><br/>
