@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Work in progress
 <!-- <a href="/pdfs/methane_draft_current.pdf">**Incentives to Emit in Upstream Oil and Gas: Theory, Evidence, and Policy Implications**</a>, with Toren Fronsdal -->
-**Incentives to Emit in Upstream Oil and Gas: Theory, Evidence, and Policy Implications**, with Toren Fronsdal -->
+**Incentives to Emit in Upstream Oil and Gas: Theory, Evidence, and Policy Implications**, with Toren Fronsdal
 <details>
   <summary>Abstract</summary>
   
