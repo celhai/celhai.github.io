@@ -5,12 +5,11 @@ permalink: /research/
 ---
 
 ### Work in progress
-**Methane and Markets: Firm Incentives to Emit**, with Toren Fronsdal
+**Incentives to Emit in Upstream Oil and Gas: Theory, Evidence, and Policy Implications**, with Toren Fronsdal
 <details>
   <summary>Abstract</summary>
   
-As the primary component of natural gas, methane is both a powerful greenhouse gas and a valuable commodity. We explore the economic factors that influence firms' decisions to emit. Using novel data on methane emissions from the Permian Basin, we provide empirical evidence that emissions respond to high-frequency price variation. In particular, emissions are positively correlated with natural gas transport costs, as captured by the Henry-Waha Hub price spread, but have an ambiguous relationship with natural gas prices. To rationalize these patterns, we present a dynamic model in which firms make production and emissions decisions in response to oil and gas prices. We find that, while emissions from natural gas flaring and venting decrease with natural gas prices, overall emissions may increase with gas prices due to the extensive margin production response. In practice, however, we find that Permian gas production responds primarily to oil prices, not gas prices. We conclude that adding gas transmission capacity can be an effective way to reduce methane emissions from jointly produced oil and gas.
-
+We study how market incentives and infrastructure constraints shape methane emissions in the oil and gas sector. We develop a model in which producers choose how many wells to drill and what share of produced gas to market versus emit, and face transmission costs that endogenously depend on pipeline utilization. Leveraging novel satellite data from the Permian Basin, we provide empirical evidence that emissions respond to high-frequency price variation in the ways predicted by our model. We estimate the parameters of our model and use the results to evaluate key policy interventions. A methane tax modeled on the EPA’s proposed Waste Emissions Charge reduces emissions by at least 12 percent when there is no pipeline congestion, but its effectiveness is attenuated when pipelines are congested. Eliminating Texas’ severance tax exemption for vented and flared gas yields modest additional abatement. Although expanding gas pipeline infrastructure may slightly increase drilling, it leads to net emission reductions, particularly during periods of high congestion, and generates private and social returns that substantially exceed construction costs. Combining price-based policies with pipeline capacity investments yields emission reductions greater than the sum of their individual effects.
 
 </details> 
 <!-- <details>
@@ -20,6 +19,24 @@ As the primary component of natural gas, methane is both a powerful greenhouse g
 
 
 <br/><br/>
+
+
+**Regulating Emissions: The Impact of New Mexico’s Flaring Rules**, with Toren Fronsdal
+
+<details>
+  <summary>Abstract</summary>
+  
+Methane emissions from oil and gas production are a prime target for emissions mitigation efforts worldwide. However, there is limited evidence on which policies are actually effective at reducing methane emissions from this industry.  We evaluate the impact of rules adopted in New Mexico in 2021 that, among other things, impose strict limits on the flaring of natural gas. We compare flaring and methane emissions before and after the policy change to show that the policy had no discernible effect on either outcome. We rationalize this null result using a model of producer decision making from Elhai and Fronsdal (2025), showing that the policy was not accompanied by sufficient enforcement to overcome the private costs of flaring. We quantify the penalties New Mexico would have needed to levy to achieve their flaring reduction targets. We then compare the cost of hitting these targets using penalties versus with Pigouvian taxation. 
+
+</details> 
+<!-- <details>
+  <summary>PDF summary</summary>
+  <a href="/pdfs/methane_note_latest.pdf">Summary</a>
+</details>  -->
+
+
+<br/><br/>
+
 
 
 **Data Centers: Location Choice and Grid Externalities**, with Yixin Zhou
@@ -32,5 +49,3 @@ As the primary component of natural gas, methane is both a powerful greenhouse g
 **Market Power, Rate Regulation, and Quality: Evidence from Natural Gas Pipelines**, with Toren Fronsdal
 <br/><br/>
 
-
-**Regulating Emissions: The Case of Natural Gas Flaring**, with Toren Fronsdal
