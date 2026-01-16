@@ -4,44 +4,13 @@
 @import "minima";
 @import "custom";
 
-/* Sidebar layout */
+/* Make the overall page wider */
+.wrapper {
+  max-width: 1250px; /* try 1200–1400 */
+}
+
+/* Make the sidebar + content columns wider */
 .site-grid {
-  display: grid;
-  grid-template-columns: 260px 1fr;
-  gap: 3rem;
-  align-items: start;
-}
-
-.site-sidebar {
-  position: sticky;
-  top: 2rem;
-  align-self: start;
-}
-
-.sidebar-avatar {
-  width: 160px;
-  height: 160px;
-  border-radius: 999px;
-  object-fit: cover;
-  display: block;
-  margin-bottom: 1rem;
-}
-
-.sidebar-links {
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-}
-
-.sidebar-links li {
-  margin: 0.35rem 0;
-}
-
-/* Mobile stack */
-@media (max-width: 900px) {
-  .site-grid {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-  }
-  .site-sidebar { position: static; }
+  grid-template-columns: 320px 1fr; /* was 260px */
+  gap: 3.5rem;                      /* a bit roomier */
 }
