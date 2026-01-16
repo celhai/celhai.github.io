@@ -1,0 +1,38 @@
+/* Research/publications formatting */
+.pub {
+  margin: 1.25rem 0 1.5rem 0;
+}
+
+.pub-title {
+  line-height: 1.35;
+}
+
+.pub-authors {
+  opacity: 0.85;
+}
+
+.pub-links {
+  margin-top: 0.25rem;
+  font-size: 0.95em;
+}
+
+.pub-links a {
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+.pub-abstract {
+  margin-top: 0.5rem;
+}
+
+.pub-abstract summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.pub-abstract p {
+  margin: 0.5rem 0 0 0;
+}
