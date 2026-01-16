@@ -4,30 +4,31 @@ title: Research
 permalink: /research/
 ---
 
-### Work in progress
+### Working papers
 <!-- <a href="/pdfs/methane_draft_current.pdf">**Incentives to Emit in Upstream Oil and Gas: Theory, Evidence, and Policy Implications**</a>, with Toren Fronsdal -->
 **Incentives to Emit in Upstream Oil and Gas: Theory, Evidence, and Policy Implications**, with Toren Fronsdal
 <details>
   <summary>Abstract</summary>
   
-We study how market incentives and infrastructure constraints shape methane emissions in the oil and gas sector. We develop a model in which producers choose how many wells to drill and what share of produced gas to market versus emit, and face transmission costs that endogenously depend on pipeline utilization. Leveraging novel satellite data from the Permian Basin, we provide empirical evidence that emissions respond to high-frequency price variation in the ways predicted by our model. We estimate the parameters of our model and use the results to evaluate key policy interventions. A methane tax modeled on the EPA’s proposed Waste Emissions Charge reduces emissions by at least 12 percent when there is no pipeline congestion, but its effectiveness is attenuated when pipelines are congested. Eliminating Texas’ severance tax exemption for vented and flared gas yields modest additional abatement. Although expanding gas pipeline infrastructure may slightly increase drilling, it leads to net emission reductions, particularly during periods of high congestion, and generates private and social returns that substantially exceed construction costs. Combining price-based policies with pipeline capacity investments yields emission reductions greater than the sum of their individual effects.
-
+We study how market incentives and infrastructure constraints shape oil and gas industry methane emissions. We develop a model in which producers make drilling and emissions decisions and face transmission costs that depend on aggregate pipeline utilization. Leveraging novel emissions data for the Permian Basin, we show that emissions respond to high-frequency price variation as predicted by the model. We use our estimated model to evaluate policies. A methane tax reduces emissions by up to 14 percent, but pipeline congestion significantly attenuates its effectiveness. Expanding gas pipeline infrastructure yields net emission reductions and generates social returns substantially exceeding construction costs.
 </details> 
-<!-- <details>
-  <summary>PDF summary</summary>
-  <a href="/pdfs/methane_note_latest.pdf">Summary</a>
-</details>  -->
+<details>
+  <summary>Draft</summary>
+  <a href="/pdfs/methane_draft_current.pdf">Draft</a>
+</details>
 
 
 <br/><br/>
 
+
+### Work in progress
 
 **Regulating Emissions: The Impact of New Mexico’s Flaring Rules**, with Toren Fronsdal
 
 <details>
   <summary>Abstract</summary>
   
-Methane emissions from oil and gas production are a prime target for emissions mitigation efforts worldwide. However, there is limited evidence on which policies are actually effective at reducing methane emissions from this industry.  We evaluate the impact of rules adopted in New Mexico in 2021 that, among other things, impose strict limits on the flaring of natural gas. We compare flaring and methane emissions before and after the policy change to show that the policy had no discernible effect on either outcome. We rationalize this null result using a model of producer decision making from Elhai and Fronsdal (2025), showing that the policy was not accompanied by sufficient enforcement to overcome the private benefits of flaring. We quantify the penalties New Mexico would have needed to levy to achieve their flaring reduction targets. We then compare the cost of hitting these targets using penalties versus with Pigouvian taxation. 
+Methane emissions from oil and gas production are a prime target for emissions mitigation efforts worldwide. However, there is limited evidence on which policies are actually effective at reducing methane emissions from this industry.  We evaluate the impact of rules adopted in New Mexico in 2021 that, among other things, impose strict limits on the flaring of natural gas. We compare flaring and methane emissions before and after the policy change to show that the policy had no discernible effect on either outcome. We rationalize this null result using a model of producer decision making from Elhai and Fronsdal (2026), showing that the policy was not accompanied by sufficient enforcement to overcome the private benefits of flaring. We quantify the penalties New Mexico would have needed to levy to achieve their flaring reduction targets. We then compare the cost of hitting these targets using penalties versus with Pigouvian taxation. 
 
 </details> 
 <!-- <details>
