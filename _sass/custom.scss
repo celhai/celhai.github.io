@@ -31,3 +31,98 @@
 .pub-abstract-text p {
   margin: 0;
 }
+
+/* Wider content + more breathing room */
+.wrapper {
+  max-width: 1100px; /* Minima default is narrower */
+}
+
+.site-main {
+  line-height: 1.65;
+  font-size: 1.05rem;
+}
+
+/* Two-column layout */
+.site-grid {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 3rem;
+  align-items: start;
+}
+
+/* Sidebar */
+.site-sidebar {
+  position: sticky;
+  top: 2rem;
+  align-self: start;
+}
+
+.sidebar-inner {
+  padding: 1rem 0;
+}
+
+.sidebar-avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 999px;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.sidebar-name {
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 0.25rem;
+}
+
+.sidebar-name a {
+  text-decoration: none;
+}
+
+.sidebar-title {
+  opacity: 0.85;
+  margin-bottom: 1rem;
+}
+
+.sidebar-links {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.sidebar-links li {
+  margin: 0.35rem 0;
+}
+
+/* Mobile: stack sidebar above content */
+@media (max-width: 900px) {
+  .site-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .site-sidebar {
+    position: static;
+  }
+
+  .sidebar-avatar {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+
+.sidebar-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  text-decoration: none;
+}
+
+.sidebar-links i {
+  width: 1.1rem;        /* keeps icons aligned */
+  text-align: center;
+  opacity: 0.9;
+}
